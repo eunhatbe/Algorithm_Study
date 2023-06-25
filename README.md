@@ -1,6 +1,6 @@
 ### chapter
 
-#### [그리디]()
+#### [그리디](https://github.com/eunhatbe/Algorithm_Study/tree/main/Greedy)
 #### [구현]()
 #### [DFS/BFS]()
 #### [정렬]()
